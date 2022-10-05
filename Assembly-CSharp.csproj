@@ -59,9 +59,9 @@
     <Compile Include="Assets/Scripts/Jugador.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/Scroll.cs" />
+    <Compile Include="Assets/Scripts/ObstaclesPool.cs" />
     <Compile Include="Assets/Scripts/Score.cs" />
     <Compile Include="Assets/Scripts/backgraundRepeat.cs" />
-    <Compile Include="Assets/Scripts/ObstaclesPool.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
