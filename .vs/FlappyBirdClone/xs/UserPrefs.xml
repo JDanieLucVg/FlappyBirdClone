@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2242D18A-7F3F-1238-C22D-2CCD6F4951AE}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObstaclesPool.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Jugador.cs" Line="31" Column="48" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="49" Column="30" />
+      <File FileName="Assets/Scripts/Scroll.cs" Line="21" Column="40" />
+      <File FileName="Assets/Scripts/backgraundRepeat.cs" Line="5" Column="30" />
+      <File FileName="Assets/Scripts/Score.cs" Line="5" Column="35" />
+      <File FileName="Assets/Scripts/ObsataclePools.cs" Line="13" Column="52" />
+      <File FileName="Assets/Scripts/ObstaclesPool.cs" Line="34" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyBirdClone" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cabef8a9-b3a0-4793-980a-ac9fce6ae834" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
